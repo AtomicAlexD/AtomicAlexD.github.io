@@ -6,7 +6,7 @@ contact:
 summary:
 - 'Data/AI Engineer: Building Next-Gen Data Platforms and AI powered solutions'
 - I thrive on solving complex data challenges and building scalable solutions with a strong foundation in the Microsoft stack and Databricks related technologies.
-- Experienced in building agentic workflows using tools like pydantic ai, DSpy and Langchain/Graph into a production environment.
+- Experienced in building agentic workflows using tools like pydantic ai, DSpi and Langchain/Graph into a production environment.
 - In-depth understanding of data modelling techniques with a background in Kimball, having implemented both data vault and dimensional modelling at scale.
 - Comfortable with streaming technologies and have a track record of implementation across various technologies.
 - One of my biggest strengths is helping to build and nurture teams in the data engineering space, with a great track record of seeing talented individuals go on to have successful careers.
@@ -47,7 +47,7 @@ projects:
 - title: Next-Generation AI-Powered Data Platform
   highlights:
   - Spearheading the design and architecture of a greenfield Data platform on Databricks, ensuring scalability, reliability, and performance
-  - Pioneered the adoption of agentic AI workflows, conducting proof-of-concepts and establishing production implementations with Pydantic AI, DSPy, and LangChain/LangGraph.
+  - Pioneered the adoption of agentic AI workflows, conducting proof-of-concepts and establishing production implementations with Pydantic AI, DSPi, and LangChain/LangGraph.
   - Involved in every step of planning from data governance and data architecture to build and initialization of custom Python framework for data engineering
   - Leveraging Spark to full capabilities, utilizing DLT pipelines in Databricks and exploring all platform functionality
   - Designed main ingestion pipelines that take federated catalogs and load them into platform with minimal latency
