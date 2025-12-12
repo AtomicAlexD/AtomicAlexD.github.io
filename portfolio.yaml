@@ -4,7 +4,7 @@ contact:
   email: atedimmock@gmail.com
   location: Milton Keynes, England, United Kingdom
 summary:
-- 'Data Engineer & Platform Architect: Building Next-Gen Data Platforms and AI-Powered Solutions'
+- 'Data Engineer & Architect: Building Next-Gen Data Platforms and AI-Powered Solutions'
 - I architect scalable data platforms and production AI systems, solving complex data challenges with Databricks, Azure, and the modern data stack.
 - Proven expertise in agentic workflows and RAG applications, shipping production systems with Pydantic AI, DSPy, and LangChain/LangGraph at scale.
 - Experienced with Kimball dimensional modelling, data vault, and enterprise architectures deployed across global organizations.
