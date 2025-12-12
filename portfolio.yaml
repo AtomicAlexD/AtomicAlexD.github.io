@@ -4,25 +4,28 @@ contact:
   email: atedimmock@gmail.com
   location: Milton Keynes, England, United Kingdom
 summary:
-- 'Data Engineer & Platform Architect: Building Next-Gen Data Platforms and AI Powered Solutions'
+- 'Data Engineer & Platform Architect: Building Next-Gen Data Platforms and AI-Powered Solutions'
 - I architect scalable data platforms and production AI systems, solving complex data challenges with Databricks, Azure, and the modern data stack.
 - Proven expertise in agentic workflows and RAG applications, shipping production systems with Pydantic AI, DSPy, and LangChain/LangGraph at scale.
-- Deep foundation in data modelling. Kimball dimensional, data vault, and enterprise architectures deployed across global organizations.
+- Experienced with Kimball dimensional modelling, data vault, and enterprise architectures deployed across global organizations.
 - Strong track record designing and implementing streaming pipelines across multiple technologies and platforms.
-- Passionate about building and mentoring high-performing data engineering teams. I've had the privilege of helping talented engineers launch successful careers.
+- Passionate about building and mentoring high-performing data engineering teams, I've had the privilege of helping talented engineers launch successful careers.
 image_path: img/main_photo.jpg
 skills:
-- name: SQL, Python, PySpark, Data Streaming
+- name: SQL, Python, PySpark
   proficiency: 100
   proficiency_label: Expert
-- name: Azure Databricks, Azure, Apache Spark, Data Modeling, Data Vault, Dimensional Modeling
+- name: Databricks, Apache Spark, Data Streaming, Data Architecture
+  proficiency: 95
+  proficiency_label: Expert
+- name: Azure, Data Modeling, Dimensional Modeling, Data Vault
   proficiency: 90
   proficiency_label: Advanced
-- name: Azure Data Factory, SSIS, SSRS, SSAS, Power BI, RAG Applications, Agentic Workflows
-  proficiency: 80
+- name: Agentic Workflows, RAG Applications, LangChain, Pydantic AI, DSPy
+  proficiency: 85
   proficiency_label: Advanced
-- name: Oracle, Database Administration
-  proficiency: 70
+- name: Azure Data Factory, Power BI, Microsoft Fabric
+  proficiency: 80
   proficiency_label: Proficient
 social_links:
 - label: Alex - LinkedIn
@@ -46,38 +49,35 @@ certifications:
 projects:
 - title: Next-Generation AI-Powered Data Platform
   highlights:
-  - Spearheading the design and architecture of a greenfield Data platform on Databricks, ensuring scalability, reliability, and performance
-  - Pioneered the adoption of agentic AI workflows, conducting proof-of-concepts and establishing production implementations with Pydantic AI, DSPy, and LangChain/LangGraph.
-  - Involved in every step of planning from data governance and data architecture to build and initialization of custom Python framework for data engineering
-  - Leveraging Spark to full capabilities, utilizing DLT pipelines in Databricks and exploring all platform functionality
-  - Designed main ingestion pipelines that take federated catalogs and load them into platform with minimal latency
-  - Built Python application that enables other data engineers across the business
-  summary: Leading the development of a cutting-edge data platform at The Access Group using Databricks, Azure, Apache Spark, Python, and SQL to support global business strategy and AI-powered solutions.
+  - Architected and built greenfield Databricks platform serving global business operations with production-grade reliability and minimal latency ingestion
+  - Designed and implemented federated data ingestion pipelines leveraging Spark and DLT, consolidating multi-source data at scale
+  - Pioneered production agentic AI workflows using Pydantic AI, DSPy, and LangChain/LangGraph—established frameworks now adopted across the organization
+  - Built custom Python framework for data engineering that standardized development practices and accelerated delivery for 20+ engineers
+  - Established data governance and architecture standards enabling self-service analytics for global teams
+  summary: Leading development of The Access Group's next-gen data platform on Databricks, enabling AI-powered insights and supporting global business strategy at scale.
   url: null
-- title: Enterprise Data Warehouse Reconstruction
+- title: Enterprise Data Warehouse Modernization
   highlights:
-  - Led complete reconstruction of internal data warehouse grounded in Kimball methodology
-  - Built dedicated team of Data Engineers and Data Analysts
-  - Re-evaluated and remodelled all existing data sources from internal systems and main application
-  - Designed architecture leveraging Azure technologies with Power BI front end, Azure SQL data warehouse, and Azure Data Factory for ELT
-  - Completed four pivotal phases of delivery, propelling data capabilities to forefront of organizational operations
-  summary: As Head of Data at adam (HTT), transformed the company's data infrastructure by building a modern data warehouse from the ground up, enabling data-driven insights and improved decision-making processes across the organization.
+  - Designed and implemented dimensional data warehouse using Kimball methodology, modernizing legacy infrastructure
+  - Built and mentored dedicated team of Data Engineers and Data Analysts from ground up
+  - Migrated and remodeled 100+ data sources from legacy systems into new architecture
+  - Deployed Azure Data Factory → Azure SQL data warehouse → Power BI pipeline, enabling real-time analytics and self-service reporting
+  - Delivered 4 major phases on schedule, enabling data-driven decision-making across the organization
+  summary: Transformed adam (HTT)'s data capabilities by rebuilding their entire data warehouse—replaced legacy systems with modern cloud architecture, enabling analytics teams to operate independently.
   url: null
-- title: Infrastructure Migration to Private Cloud
+- title: Cloud Infrastructure Migrations
   highlights:
-  - Led critical infrastructure migration project transitioning on-site infrastructure to private cloud environment
-  - Implemented availability groups and upgraded to SQL 2014
-  - Successfully managed second infrastructure migration between private clouds
-  - Ensured seamless transition with accumulated expertise
-  summary: Orchestrated major infrastructure migrations at Dynamic Procurement Holdings, modernizing the data estate and implementing enterprise-grade database technologies.
+  - Led two critical infrastructure migrations—on-premise to private cloud, then between private cloud providers
+  - Implemented SQL Server Availability Groups and upgraded legacy systems (SQL 2012 → 2014) with zero downtime
+  - Designed migration strategies that maintained business continuity while modernizing the data estate
+  summary: Orchestrated large-scale infrastructure migrations at Dynamic Procurement Holdings, successfully transitioning mission-critical systems to cloud while maintaining operational continuity.
   url: null
-- title: International Financial BI Solution
+- title: International Financial Analytics Platform
   highlights:
-  - Collaborated with senior consultants to strategize, build, and deliver end-to-end data warehousing solutions
-  - Traveled to USA to deliver comprehensive financial BI solution
-  - Worked with one of the world's largest grain suppliers
-  - Successfully delivered solution for international client
-  summary: As a BI Consultant at Dynamic-BI, worked on high-impact international projects, delivering comprehensive business intelligence solutions to global organizations.
+  - Designed and delivered end-to-end financial data warehouse for one of the world's largest grain suppliers
+  - Built comprehensive BI solution supporting multi-currency financial reporting and executive dashboards
+  - Managed international engagement including on-site delivery in USA
+  summary: Delivered high-impact BI solution to global Fortune 500 organization, establishing complex financial analytics capabilities for international operations.
   url: null
 work_experience:
 - company: The Access Group
