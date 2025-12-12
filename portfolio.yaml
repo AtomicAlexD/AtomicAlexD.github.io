@@ -52,7 +52,7 @@ projects:
   - Architected and built greenfield Databricks platform serving global business operations with production-grade reliability and minimal latency ingestion
   - Designed and implemented federated data ingestion pipelines leveraging Spark and DLT, consolidating multi-source data at scale
   - Pioneered production agentic AI workflows using Pydantic AI, DSPy, and LangChain/LangGraph—established frameworks now adopted across the organization
-  - Built custom Python framework for data engineering that standardized development practices and accelerated delivery for 20+ engineers
+  - Built custom Python framework for data engineering that standardized development practices and accelerated delivery for 10+ engineers
   - Established data governance and architecture standards enabling self-service analytics for global teams
   summary: Leading development of The Access Group's next-gen data platform on Databricks, enabling AI-powered insights and supporting global business strategy at scale.
   url: null
