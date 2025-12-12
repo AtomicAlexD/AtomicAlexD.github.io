@@ -21,7 +21,7 @@ skills:
 - name: Azure, Data Modeling, Dimensional Modeling, Data Vault
   proficiency: 90
   proficiency_label: Advanced
-- name: MLflow, Model Registry, Experiment Tracking, Machine Learning Operations
+- name: MLflow, Model Registry, Experiment Tracking, Machine Learning
   proficiency: 85
   proficiency_label: Advanced
 - name: Agentic Workflows, RAG Applications, LangChain, Pydantic AI, DSPy
