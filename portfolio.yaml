@@ -4,12 +4,7 @@ contact:
   email: atedimmock@gmail.com
   location: Milton Keynes, England, United Kingdom
 summary:
-- 'Data Engineer & Architect: Building Next-Gen Data Platforms and AI-Powered Solutions'
-- I architect scalable data platforms and production AI systems, solving complex data challenges with Databricks, Azure, and the modern data stack.
-- Proven expertise in agentic workflows and RAG applications. I've shipped production systems using Pydantic AI, DSPy, and LangChain/LangGraph with MLflow for model and agent tracking at scale.
-- Experienced with Kimball dimensional modelling, data vault, and enterprise architectures deployed across global organizations.
-- Strong track record designing and implementing streaming pipelines across multiple technologies and platforms.
-- Passionate about building and mentoring high-performing data engineering teams, I've had the privilege of helping talented engineers launch successful careers.
+- I've been working with data since 2012, starting out as an apprentice and working my way up through pretty much every layer of the stack. These days I'm a Lead Data Engineer at The Access Group, building a greenfield data platform on Databricks from the ground up. I work mostly in Python, PySpark and SQL, with a solid background in data modelling across Kimball, data vault and dimensional approaches. More recently I've been building and deploying custom AI agents using DSPy and MLflow, surfacing them through full stack applications with React front ends and Python backends. I've also spent a good chunk of my career building and mentoring teams, which is something I genuinely enjoy.
 image_path: img/main_photo.jpg
 skills:
 - name: SQL, Python, PySpark
