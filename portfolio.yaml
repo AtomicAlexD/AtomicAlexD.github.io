@@ -110,7 +110,7 @@ work_experience:
   - Completed four pivotal phases of delivery, propelling data capabilities to forefront of organizational operations
   - Enabled more efficient work processes, leveraged data-driven insights, and improved decision-making across the company
 - company: adam (HTT)
-  position: Senior Database Developer
+  position: Senior Data Engineer
   start_date: February 2018
   end_date: September 2020
   summary: Promoted to senior role with the opportunity to assemble and nurture a high-performing team. Focused on delivering procurement services to local government entities while mentoring team members and addressing comprehensive business intelligence and reporting needs.
@@ -125,7 +125,7 @@ work_experience:
   - Successfully managed second infrastructure migration from one private cloud to another
   - Earned Microsoft MCSE for Data Management and Analytics during tenure
 - company: Dynamic Procurement Holdings Ltd
-  position: Database Developer
+  position: Data Engineer
   start_date: May 2016
   end_date: February 2018
   summary: Served as the inaugural and sole data resource at DPH, assuming full responsibility for the company's data estate including legacy data warehouse and on-site infrastructure. Led critical infrastructure migration to private cloud environment.
@@ -138,7 +138,7 @@ work_experience:
   - Implemented availability groups and upgraded to SQL 2014
   - Delivered significant enhancements to existing systems
 - company: Dynamic-BI
-  position: Junior BI Consultant
+  position: Full Stack Data Consultant
   start_date: May 2012
   end_date: May 2016
   summary: Started as an apprentice and progressed to business intelligence consultant. Gained comprehensive experience in the Microsoft data stack, managed on-site infrastructure, and delivered end-to-end data warehousing solutions to clients nationally and internationally.
