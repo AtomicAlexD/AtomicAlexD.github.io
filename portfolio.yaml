@@ -81,7 +81,7 @@ projects:
   url: null
 work_experience:
 - company: The Access Group
-  position: Senior Data Engineer
+  position: Lead Data Engineer
   start_date: November 2022
   end_date: Present
   summary: At the forefront of architecting and developing a greenfield Data platform to cater to the entire business on a global level. Leveraging a tech stack that includes Databricks, Azure, Apache Spark, Python, and SQL to build next-generation AI-powered data solutions.
